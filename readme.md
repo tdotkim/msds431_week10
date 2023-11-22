@@ -55,7 +55,11 @@ The script for the randomforest in R with nodesize = 2000 and trees = 20.
 
 ## Instructions
 
-To recreate this please run the executables in the respective folders except for chat-gpt where you'll need to call the script directly to see the errors. 
+To recreate this analysis:
+
+1. download the mnist data in csv from this website https://pjreddie.com/projects/mnist-in-csv/ and add it to the data folder OR use the getdata.bat script in the datafolder
+2. run the runall.bat file to execute both the R script and the Go script
+
 ## References
 
 Belkin, Mikhail, Daniel Hsu, Siyuan Ma, Soumik Mandal. 2019. "Reconciling modern machine learning practice and the bias-variance trade-off" 1-23. https://arxiv.org/pdf/1812.11118.pdf
