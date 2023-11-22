@@ -1,6 +1,6 @@
 
 
-# Generative AI and Go
+# Modern Statistics and Go
 
 ## Project Summary
 
